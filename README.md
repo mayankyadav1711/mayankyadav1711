@@ -1,4 +1,4 @@
-![Banner](https://svg-banners.vercel.app/api?type=typeWriter&text1=Design,%20Develop%20and%20Deploy%20%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB&width=800&height=400)
+![Banner](https://i.ibb.co/c2tNnFd/senior-software-engineer-Wy82t-YQym.gif)
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
