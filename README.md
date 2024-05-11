@@ -1,4 +1,4 @@
-![Banner]([https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif](https://svg-banners.vercel.app/api?type=typeWriter&text1=Design,%20Develop%20and%20Deploy%20%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB&width=800&height=400))
+![Banner](https://svg-banners.vercel.app/api?type=typeWriter&text1=Design,%20Develop%20and%20Deploy%20%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB&width=800&height=400)
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
