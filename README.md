@@ -31,7 +31,7 @@
 <a href="https://stackoverflow.com/users/21119026" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21119026" height="30" width="40" /></a>
 <a href="https://instagram.com/___mayank17___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="___mayank17___" height="30" width="40" /></a>
 <a href="https://hashnode.com/@myk17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@myk17" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/mayankyadav-17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mayankyadav-17" height="30" width="40" /></a>
+<a href="https://www.youtube.com//channel/UCIrpCdKKTh86NLvUylLlvCQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mayankyadav-17" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mayankyadav_17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mayankyadav_17" height="30" width="40" /></a>
 </p>
 
