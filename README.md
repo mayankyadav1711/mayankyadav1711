@@ -1,4 +1,6 @@
-![Banner](https://i.ibb.co/c2tNnFd/senior-software-engineer-Wy82t-YQym.gif)
+<p align="center">
+  <img src="https://i.ibb.co/c2tNnFd/senior-software-engineer-Wy82t-YQym.gif" alt="Banner">
+</p>
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
