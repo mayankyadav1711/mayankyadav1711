@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/c2tNnFd/senior-software-engineer-Wy82t-YQym.gif" alt="Banner">
+  <img src="https://res.cloudinary.com/dzxhn37ae/image/upload/v1715425278/uuciewpx74unm2fpus66.gif" alt="Banner">
 </p>
 
 
