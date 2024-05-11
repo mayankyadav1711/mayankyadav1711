@@ -1,9 +1,9 @@
-<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9B72FF&random=false&width=435&lines=%22Design%2C+Develop%2C+and+Deploy.%22" alt="Typing SVG" /> </h1>
+![Banner](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
 
-<h1 align="center">Hi 👋, I'm Mayank Yadav</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+, I'm Mayank Yadav </h1>
 <h3 align="center">A passionate MERN-Stack Developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mayankyadav1711&label=Profile%20views&color=0e75b6&style=flat" alt="mayankyadav1711" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mayankyadav1711" alt="mayankyadav1711" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayankyadav1711" alt="mayankyadav1711" /></a> </p>
 
