@@ -1,3 +1,5 @@
+<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9B72FF&random=false&width=435&lines=%22Design%2C+Develop%2C+and+Deploy.%22" alt="Typing SVG" /> </h2>
+
 <h1 align="center">Hi 👋, I'm Mayank yadav</h1>
 <h3 align="center">A passionate MERN Stack Developer from India</h3>
 
