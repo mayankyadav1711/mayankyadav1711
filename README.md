@@ -1,7 +1,7 @@
 <h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9B72FF&random=false&width=435&lines=%22Design%2C+Develop%2C+and+Deploy.%22" alt="Typing SVG" /> </h1>
 
-<h2 align="center" ><img src="https://readme-typing-svg.demolab.com?font=Jost&weight=600&size=24&pause=1000&color=F7F7F7&repeat=false&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Mayank+Yadav" alt="Typing SVG" /></h2>
-<h3 ><img src="https://readme-typing-svg.demolab.com?font=Jost&weight=600&size=24&pause=1000&color=F7F7F7&repeat=false&random=false&width=435&lines=A+passionate+MERN+Stack+Developer+from+India" alt="Typing SVG" /></h3>
+<h2 align="left" ><img src="https://readme-typing-svg.demolab.com?font=Jost&weight=600&size=24&pause=1000&color=F7F7F7&repeat=false&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Mayank+Yadav" alt="Typing SVG" /></h2>
+<h3 align="left">A passionate MERN Stack Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayankyadav1711&label=Profile%20views&color=0e75b6&style=flat" alt="mayankyadav1711" /> </p>
 
