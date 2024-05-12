@@ -66,6 +66,11 @@
 
 
 ## Github Stats
+
+
+<br/>
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayankyadav1711&show_icons=true&locale=en&layout=compact" alt="mayankyadav1711" /></p>
 <br/>
 <div align="center" > <a href="https://github.com/marketplace/actions/auto-assign-pr-and-issues"><img src="https://github-profile-trophy.vercel.app/?username=mayankyadav1711&row=3&column=3&theme=onedark" alt="Utsav stats" /></a> </div> <br/> <br/>
 <div align="center">
