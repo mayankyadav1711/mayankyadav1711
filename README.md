@@ -62,11 +62,8 @@
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 <a href="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
 </p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayankyadav1711&show_icons=true&locale=en&layout=compact" alt="mayankyadav1711" /></p>
-<br/>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayankyadav1711&show_icons=true&locale=en" alt="mayankyadav1711" /></p>
-<br/>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayankyadav1711&" alt="mayankyadav1711" /></p>
+
+
 
 ## Github Stats
 <br/>
