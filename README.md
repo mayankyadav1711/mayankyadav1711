@@ -67,3 +67,21 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayankyadav1711&show_icons=true&locale=en" alt="mayankyadav1711" /></p>
 <br/>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayankyadav1711&" alt="mayankyadav1711" /></p>
+
+## Github Stats
+<br/>
+<div align="center" > <a href="https://github.com/marketplace/actions/auto-assign-pr-and-issues"><img src="https://github-profile-trophy.vercel.app/?username=up1512001&row=3&column=3&theme=onedark" alt="Utsav stats" /></a> </div> <br/> <br/>
+<div align="center">
+  
+[![Mayank's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayankyadav1711&show_icons=true&theme=radical)]()
+</div> <br>
+<div align="center">
+  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=mayankyadav1711&theme=radical)]()
+  
+</div>
+<p align = "center">
+  
+[![Mayank's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mayankyadav1711&bg_color=000000&color=fa7900&line=fb8c1d&point=fb3b02&area=true&hide_border=true)](https://github.com/mayankyadav1711)
+  
+</p>
