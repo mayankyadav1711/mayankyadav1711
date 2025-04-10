@@ -79,7 +79,7 @@
 </div> <br>
 <div align="center">
   
-  [![GitHub Streak](https://streak-stats.demolab.com?user=mayankyadav1711&theme=radical)]()
+  [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=mayankyadav1711)](https://git.io/streak-stats)
   
 </div>
 <p align = "center">
